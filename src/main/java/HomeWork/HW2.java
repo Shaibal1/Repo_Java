@@ -5,6 +5,7 @@ public class HW2 {
         System.out.println();
         System.out.println("BestCoder");
         System.out.println("1st code Push");
+        System.out.println();
 
     }
 }
