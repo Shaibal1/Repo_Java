@@ -22,7 +22,7 @@ public class HW1
         byte numberOfHoursInDays = 24;
         System.out.println("Number of hours in a day: " + numberOfHoursInDays);
 
-        int numberOfDaysInAYear = 365;
+        short numberOfDaysInAYear = 365;
         System.out.println("Number of days in a year: " + numberOfDaysInAYear);
 
         int totalNumberOfEmployeesInNIKE = 75400;
@@ -34,14 +34,16 @@ public class HW1
         float currentUSAMortgageRate = 2.55f;
         System.out.println("Current national interest rate is: " + currentUSAMortgageRate+"%");
 
-        short balanceInBankAccount = 30000;
+        double balanceInBankAccount = 300.12;
         System.out.println("Current balance in account is " + "$"+balanceInBankAccount);
 
         boolean doesTheSunRiseFromTheWest = false;
         System.out.println("Does the sun rise from the west ? " + false);
 
-        String initialsOfFirstAndLastName = "SA";
-        System.out.println("The initials of my first and last names are: " + initialsOfFirstAndLastName);
+        char myFirstNameInitial = 'S';
+        char myLastNameInitial = 'A';
+
+        System.out.println("The initials of my first and last names are: " + myFirstNameInitial+myLastNameInitial);
 
 
     }
