@@ -18,7 +18,7 @@ public class HW1
          8. Initial of your name
          */
 
-        
+
         byte numberOfHoursInDays = 24;
         System.out.println("Number of hours in a day: " + numberOfHoursInDays);
 
