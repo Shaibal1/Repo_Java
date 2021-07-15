@@ -59,7 +59,7 @@ public class HW3
          */
         // Question - 3
         String sentence_3 = "ABC Networks";
-        String result_3 = "";
+        String result_3 = ""; 
 
         System.out.println("\nQuestion 3:\n" + "\nA) Display/Print length of your sentence_3\n" +  "   The length of Sentence_3 is "+ sentence_3.length());
         boolean doesSentence3StartWitha = sentence_3.equalsIgnoreCase("a");
