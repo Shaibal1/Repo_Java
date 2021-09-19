@@ -21,7 +21,9 @@ public class GitCommands {
      *
      *
      *  Command to push from a local to remote
-     *
+     *  git add file1 file2 ...
+     *  git commit -m "Commit statement "
+     *  push
      *
      * */
 
