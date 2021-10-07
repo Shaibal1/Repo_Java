@@ -1,6 +1,7 @@
 package Class13.ExceptionsPkg;
 
 import Class13.AccessModifier.MyStringMethods;
+import Class14.ConstructorPkg.MyConstructor;
 //import Class14.ConstructorPkg.MyConstructor;
 
 import java.util.InputMismatchException;
@@ -38,6 +39,8 @@ public class Scanner_Concept {
             year:
                 1998
          */
+
+        MyConstructor obj1 = new MyConstructor();
 
 
 

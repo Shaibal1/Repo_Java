@@ -6,8 +6,8 @@ import java.util.Arrays;
 import static java.lang.constant.ConstantDescs.NULL;
 
 public class Practice2 {
-//    public static void main(String[] args) {
-
+  public static void main(String[] args) {
+  }
     int[] array = {45, 37, 23, 80, 18}; // * find the average *
 
     //String[] names = {"john", "happy", "peACe", "jOy", "lui", "harry", "go"};
